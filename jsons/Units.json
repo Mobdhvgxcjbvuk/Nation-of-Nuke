@@ -9,7 +9,6 @@
 		"range": 50,
 		"cost": 1,
 		"sight": 50,
-\\		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [2]",
 		"Can be purchased with [Gold] [in all cities]",
@@ -23,9 +22,8 @@
 		"uniqueTo": "The Nation of Nuke",
 		"movement": 100,
 		"strength": 1000,
-		"cost": 1,
-		"hurryCostModifier" : -100
-\\		"requiredTech": "Radar",
+		"cost": 0,
+		"hurryCostModifier" : -10000
 		"uniques": ["May Paradrop up to [100] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can move after attacking","Unbuildable",
 		"Can be purchased with [Gold] [in all cities]","[10] additional attacks per turn", "Can be purchased if more are needed","Can undertake a trade mission with City-State, giving a large sum of gold and [1000] Influence"],
 		"attackSound": "nuke"
